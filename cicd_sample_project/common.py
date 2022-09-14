@@ -92,7 +92,7 @@ class Job(ABC):
     @abstractmethod
     def launch(self):
         """
-        Main method of the job.
+        Main method of the job
         :return:
         """
         pass
