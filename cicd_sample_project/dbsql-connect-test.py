@@ -2,9 +2,7 @@
 from databricks import sql
 
 # Connection parameters
-hostname = "cse2.cloud.databricks.com"
-http_path = "/sql/1.0/endpoints/489386e89600d733"
-pat = "dapi0b42c9b7f9218082329c83e136cf1d5e"
+
 
 # Query data
 
