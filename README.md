@@ -1,4 +1,6 @@
  --# cicd-sample-project
+ 
+ THIS REPO IS PURELY FOR DEMO PURPOSES
 
 https://dbx.readthedocs.io/en/latest/quickstart.html
 
