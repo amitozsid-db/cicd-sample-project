@@ -1,11 +1,11 @@
 import json
+import sys
 from abc import ABC, abstractmethod
 from argparse import ArgumentParser
 from logging import Logger
 from typing import Dict, Any
 
 from pyspark.sql import SparkSession
-import sys
 
 
 # abstract class for jobs
